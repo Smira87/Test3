@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 commit abe57f5a15c93b969c5764102c2a276bf6104594
 Author: Smira87 <Snoff87@gmail.com>
 Date:   Sat Nov 25 17:51:05 2017 +0200
@@ -15,3 +16,7 @@ Author: Smira87 <snoff87@gmail.com>
 Date:   Sat Nov 25 17:06:01 2017 +0200
 
     Initial commit
+=======
+# Test3
+Test repository editedddsada
+>>>>>>> 1a809a23b3fd908b0fb3151972867a2748aacb11
