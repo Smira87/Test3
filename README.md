@@ -18,5 +18,9 @@ Date:   Sat Nov 25 17:06:01 2017 +0200
     Initial commit
 =======
 # Test3
+<<<<<<< HEAD
 Test repository editedddsada
 >>>>>>> 1a809a23b3fd908b0fb3151972867a2748aacb11
+=======
+Test repository 
+>>>>>>> ea5532aa2f0375ee1482dd3d3180f9a89a1ad7d1
